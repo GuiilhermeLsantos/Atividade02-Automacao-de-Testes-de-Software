@@ -1,1 +1,1 @@
-# Atividade02-Automa-o-de-Testes-de-Software
+# Atividade02-Automacao de Testes de Software
